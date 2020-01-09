@@ -1,0 +1,10 @@
+*{
+	
+}
+@media only screen and (max-width: 768px) {
+  body {
+    height: 100vh;
+  background-color: lightgreen;
+  display: block;
+  }
+}
